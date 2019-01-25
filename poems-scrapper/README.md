@@ -4,10 +4,6 @@
 
 This is a web scrapper that feeds on <http://poems.com/today.php> to get a poem (different everyday), and exports it to PDF.
 
-## To-Do
-
-- Create a PDF document using FPDF
-
 ## How to run
 
 1. Execute `bootstrap.sh` to create the virtualenv folder and install dependencies
@@ -19,7 +15,8 @@ This is a web scrapper that feeds on <http://poems.com/today.php> to get a poem 
 - How to use `requests` to get raw HTML from web pages
 - How to use `BeautifulSoup` to wrangle data from HTML
 - How to print in colors to the console
-- How to generate a PDF document using `FPDF`
+- How to generate a PDF document using `ReportLab`
+- Open a file from Python using `subprocess.Popen()`
 
 ## References
 
@@ -27,4 +24,4 @@ This is a web scrapper that feeds on <http://poems.com/today.php> to get a poem 
 - <https://realpython.com/python-virtual-environments-a-primer/>
 - <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
 - <http://docs.python-requests.org/en/master/>
-- <https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/>
+- <https://medium.com/@vonkunesnewton/generating-pdfs-with-reportlab-ced3b04aedef>

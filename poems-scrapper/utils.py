@@ -13,7 +13,7 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-def get_page(url):
+def get_webpage(url):
     try:
         with closing(get(url, stream=True)) as resp:
             if is_good_response(resp):
