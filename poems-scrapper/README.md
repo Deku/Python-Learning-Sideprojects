@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a web scrapper that feeds on ()[http://poems.com/today.php] to get a poem (different everyday), and exports it to PDF.
+This is a web scrapper that feeds on <http://poems.com/today.php> to get a poem (different everyday), and exports it to PDF.
 
 ## To-Do
 
@@ -23,8 +23,8 @@ This is a web scrapper that feeds on ()[http://poems.com/today.php] to get a poe
 
 ## References
 
-- ()[https://realpython.com/python-web-scraping-practical-introduction/]
-- ()[https://realpython.com/python-virtual-environments-a-primer/]
-- ()[https://www.crummy.com/software/BeautifulSoup/bs4/doc/]
-- ()[http://docs.python-requests.org/en/master/]
-- ()[https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/]
+- <https://realpython.com/python-web-scraping-practical-introduction/>
+- <https://realpython.com/python-virtual-environments-a-primer/>
+- <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
+- <http://docs.python-requests.org/en/master/>
+- <https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/>
